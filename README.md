@@ -2,6 +2,8 @@
  5-stage pipelined, 8 bit processor with a 7-segment demo  
 
 **Author:** Christian Turjuman  
+
+[Demo&nbsp;Video](https://youtu.be/xghnF1um8oY?si=XUX2Hru_jjpQjxhC)
  
 
 In our Digital Systems lab we built a basic single-cycle CPU, however because the entire datapath had to settle within one clock edge the instruction throughput was very limited. To improve performance I redesigned the processor using the classic 5 stage pipeline. The pipeline breaks the datapath into five short stages, allowing multiple instructions to run in parallel. This both improves instruction performance, and saves resources. 
