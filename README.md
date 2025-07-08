@@ -13,7 +13,8 @@
 > Overall this increased peformance by roughly **30 %**, while using around **77 %** less resources (LUTs). Check out the performance and documentation report for the full analysis.
 
 
-[**Technical Report (PDF)**](PipeLined.pdf)
+
+[**Technical Report (PDF)**](PipeLined%20Processor%20Documentation.pdf)
 
 
 
