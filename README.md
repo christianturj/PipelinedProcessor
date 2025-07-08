@@ -14,7 +14,7 @@
 
 *For the demo a small divider slows the 25 MHz board clock to ~1 Hz so you can watch the PC tick up on the Go-Board’s dual 7-segment display.*
 
-
+Testbench file: https://www.edaplayground.com/x/KS4G
 
 The FPGA used is the LATTICE iCE40HX1K VQ100, on the GoBoard from nandland.com 
 The constraint files are taken from nandland.com for the synthesis and P&R of the board:
