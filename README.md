@@ -12,6 +12,8 @@
 
 > Overall this increased peformance by roughly **30 %**, while using around **77 %** less resources (LUTs). Check out the performance and documentation report for the full analysis.
 
+
+
 *For the demo a small divider slows the 25 MHz board clock to ~1 Hz so you can watch the PC tick up on the Go-Board’s dual 7-segment display.*
 
 Testbench file: https://www.edaplayground.com/x/KS4G
