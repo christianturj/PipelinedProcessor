@@ -1,0 +1,7 @@
+C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe  -link  -multisrs  "C:\Users\Cturj\Desktop\thor cpu\pipelined_processor\pipelined_processor_Implmnt\synwork\pipelined_processor_comp.srs"  -osyn  "C:\Users\Cturj\Desktop\thor cpu\pipelined_processor\pipelined_processor_Implmnt\synwork\pipelined_processor_mult.srs"  -log  "C:\Users\Cturj\Desktop\thor cpu\pipelined_processor\pipelined_processor_Implmnt\synlog\pipelined_processor_multi_srs_gen.srr" 
+rc:0 success:1 runtime:0
+file:C:\Users\Cturj\Desktop\thor cpu\pipelined_processor\pipelined_processor_Implmnt\synwork\pipelined_processor_comp.srs|io:i|time:1751987714|size:14326|exec:0
+file:C:\Users\Cturj\Desktop\thor cpu\pipelined_processor\pipelined_processor_Implmnt\synwork\pipelined_processor_mult.srs|io:o|time:1751987715|size:3512|exec:0
+file:C:\Users\Cturj\Desktop\thor cpu\pipelined_processor\pipelined_processor_Implmnt\synlog\pipelined_processor_multi_srs_gen.srr|io:o|time:1751987715|size:826|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin\syn_nfilter.exe|io:i|time:1751826835|size:3128320|exec:1
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe|io:i|time:1751826836|size:3947520|exec:1

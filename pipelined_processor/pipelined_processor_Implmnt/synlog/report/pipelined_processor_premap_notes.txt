@@ -1,0 +1,8 @@
+@N: MF248 |Running in 64-bit mode.
+@N: MF666 |Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.)
+@N: BN115 :"c:\users\cturj\desktop\thor cpu\cpu.v":65:15:65:19|Removing instance u_r12 (in view: work.pipelined_cpu(verilog)) of type view:work.pipe_reg_id_ex(verilog) because it does not drive other instances.
+@N: BN115 :"c:\users\cturj\desktop\thor cpu\cpu.v":44:9:44:12|Removing instance u_id (in view: work.pipelined_cpu(verilog)) of type view:work.id_stage(verilog) because it does not drive other instances.
+@N: BN115 :"c:\users\cturj\desktop\thor cpu\if_stage.v":13:20:13:24|Removing instance rom_u (in view: work.if_stage(verilog)) of type view:work.instruction_rom(verilog) because it does not drive other instances.
+@N: BN362 :"c:\users\cturj\desktop\thor cpu\pipe_reg_id_ex.v":15:4:15:9|Removing sequential instance out_data1[7:0] (in view: work.pipe_reg_id_ex(verilog)) of type view:PrimLib.dffr(prim) because it does not drive other instances.
+@N: BN362 :"c:\users\cturj\desktop\thor cpu\pipe_reg_id_ex.v":15:4:15:9|Removing sequential instance out_data2[7:0] (in view: work.pipe_reg_id_ex(verilog)) of type view:PrimLib.dffr(prim) because it does not drive other instances.
+@N: BN225 |Writing default property annotation file C:\Users\Cturj\Desktop\thor cpu\pipelined_processor\pipelined_processor_Implmnt\pipelined_processor.sap.

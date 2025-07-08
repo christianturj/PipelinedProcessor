@@ -1,0 +1,25 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CG364 :"C:\Users\Cturj\Desktop\thor cpu\DebounceSwitch.v":1:7:1:20|Synthesizing module DebounceSwitch in library work.
+@N: CG364 :"C:\Users\Cturj\Desktop\thor cpu\instruction_rom.v":6:7:6:21|Synthesizing module instruction_rom in library work.
+@N: CG364 :"C:\Users\Cturj\Desktop\thor cpu\if_stage.v":3:7:3:14|Synthesizing module if_stage in library work.
+@N: CG364 :"C:\Users\Cturj\Desktop\thor cpu\pipe_reg_if_id.v":3:7:3:20|Synthesizing module pipe_reg_if_id in library work.
+@N: CG364 :"C:\Users\Cturj\Desktop\thor cpu\id_stage.v":3:7:3:14|Synthesizing module id_stage in library work.
+@N: CG364 :"C:\Users\Cturj\Desktop\thor cpu\reg_file.v":2:7:2:13|Synthesizing module regfile in library work.
+@N: CG364 :"C:\Users\Cturj\Desktop\thor cpu\pipe_reg_id_ex.v":3:7:3:20|Synthesizing module pipe_reg_id_ex in library work.
+@N: CG364 :"C:\Users\Cturj\Desktop\thor cpu\ex_stage.v":3:7:3:14|Synthesizing module ex_stage in library work.
+@N: CG364 :"C:\Users\Cturj\Desktop\thor cpu\pipe_reg_ex_mem.v":3:7:3:21|Synthesizing module pipe_reg_ex_mem in library work.
+@N: CG364 :"C:\Users\Cturj\Desktop\thor cpu\mem_stage.v":2:7:2:15|Synthesizing module mem_stage in library work.
+@N: CG364 :"C:\Users\Cturj\Desktop\thor cpu\pipe_reg_mem_wb.v":3:7:3:21|Synthesizing module pipe_reg_mem_wb in library work.
+@N: CG364 :"C:\Users\Cturj\Desktop\thor cpu\cpu.v":1:7:1:19|Synthesizing module pipelined_cpu in library work.
+@N: CG364 :"C:\Users\Cturj\Desktop\thor cpu\sevenseg_hex.v":1:7:1:18|Synthesizing module sevenseg_hex in library work.
+@N: CG364 :"C:\Users\Cturj\Desktop\thor cpu\top.v":3:7:3:25|Synthesizing module simpleprocessor_top in library work.
+@N: CL159 :"C:\Users\Cturj\Desktop\thor cpu\top.v":5:23:5:32|Input i_Switch_1 is unused.
+@N: CL159 :"C:\Users\Cturj\Desktop\thor cpu\top.v":6:23:6:32|Input i_Switch_2 is unused.
+@N: CL159 :"C:\Users\Cturj\Desktop\thor cpu\top.v":7:23:7:32|Input i_Switch_3 is unused.
+@N: CL134 :"C:\Users\Cturj\Desktop\thor cpu\reg_file.v":21:2:21:7|Found RAM rf, depth=4, width=8
+@N: CL134 :"C:\Users\Cturj\Desktop\thor cpu\reg_file.v":21:2:21:7|Found RAM rf, depth=4, width=8
+@N|Running in 64-bit mode
+@N: NF107 :"C:\Users\Cturj\Desktop\thor cpu\top.v":3:7:3:25|Selected library: work cell: simpleprocessor_top view verilog as top level
+@N: NF107 :"C:\Users\Cturj\Desktop\thor cpu\top.v":3:7:3:25|Selected library: work cell: simpleprocessor_top view verilog as top level
+

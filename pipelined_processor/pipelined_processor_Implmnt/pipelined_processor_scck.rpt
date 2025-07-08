@@ -1,0 +1,29 @@
+# Synopsys Constraint Checker(syntax only), version maplat, Build 1612R, built Dec  5 2016
+# Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+# Written on Tue Jul 08 11:15:16 2025
+
+
+##### DESIGN INFO #######################################################
+
+Top View:                "simpleprocessor_top"
+Constraint File(s):      "C:\Users\Cturj\Downloads\Go_Board_Clock_Constraint.sdc"
+
+#Run constraint checker to find more issues with constraints.
+#########################################################################
+
+
+
+No issues found in constraint syntax.
+
+
+
+Clock Summary
+*************
+
+Start                                             Requested     Requested     Clock                    Clock                Clock
+Clock                                             Frequency     Period        Type                     Group                Load 
+---------------------------------------------------------------------------------------------------------------------------------
+i_Clk                                             25.0 MHz      40.000        declared                 default_clkgroup     45   
+simpleprocessor_top|clk_div_derived_clock[24]     25.0 MHz      40.000        derived (from i_Clk)     default_clkgroup     48   
+=================================================================================================================================

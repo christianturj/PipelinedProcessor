@@ -1,0 +1,142 @@
+#### START OF AREA REPORT #####[
+
+Part:			ICE40HX1KVQ100 (Lattice)
+
+-----------------------------------------------------------------------------------
+########   Utilization report for  Top level view:   simpleprocessor_top   ########
+===================================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     60                 100 %                
+==================================================
+Total SEQUENTIAL ELEMENTS in the block simpleprocessor_top:	60 (25.42 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       73                 100 %                
+CARRYS     68                 100 %                
+===================================================
+Total COMBINATIONAL LOGIC in the block simpleprocessor_top:	141 (59.75 % Utilization)
+
+
+IO PADS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     21                 100 %                
+=================================================
+Total IO PADS in the block simpleprocessor_top:	21 (8.90 % Utilization)
+
+--------------------------------------------------------------------
+########   Utilization report for  cell:   DebounceSwitch   ########
+Instance path:   simpleprocessor_top.DebounceSwitch                 
+====================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     19                 31.7 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block simpleprocessor_top.DebounceSwitch:	19 (8.05 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       24                 32.9 %               
+CARRYS     16                 23.5 %               
+===================================================
+Total COMBINATIONAL LOGIC in the block simpleprocessor_top.DebounceSwitch:	40 (16.95 % Utilization)
+
+
+IO PADS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     1                  4.76 %               
+=================================================
+Total IO PADS in the block simpleprocessor_top.DebounceSwitch:	1 (0.42 % Utilization)
+
+-------------------------------------------------------------------
+########   Utilization report for  cell:   pipelined_cpu   ########
+Instance path:   simpleprocessor_top.pipelined_cpu                 
+===================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     16                 26.7 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block simpleprocessor_top.pipelined_cpu:	16 (6.78 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       8                  11 %                 
+CARRYS     7                  10.3 %               
+===================================================
+Total COMBINATIONAL LOGIC in the block simpleprocessor_top.pipelined_cpu:	15 (6.36 % Utilization)
+
+--------------------------------------------------------------
+########   Utilization report for  cell:   if_stage   ########
+Instance path:   pipelined_cpu.if_stage                       
+==============================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     8                  13.3 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block pipelined_cpu.if_stage:	8 (3.39 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       8                  11 %                 
+CARRYS     7                  10.3 %               
+===================================================
+Total COMBINATIONAL LOGIC in the block pipelined_cpu.if_stage:	15 (6.36 % Utilization)
+
+--------------------------------------------------------------------
+########   Utilization report for  cell:   pipe_reg_if_id   ########
+Instance path:   pipelined_cpu.pipe_reg_if_id                       
+====================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     8                  13.3 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block pipelined_cpu.pipe_reg_if_id:	8 (3.39 % Utilization)
+
+------------------------------------------------------------------
+########   Utilization report for  cell:   sevenseg_hex   ########
+Instance path:   simpleprocessor_top.sevenseg_hex                 
+==================================================================
+
+COMBINATIONAL LOGIC
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+LUTS     7                  9.59 %               
+=================================================
+Total COMBINATIONAL LOGIC in the block simpleprocessor_top.sevenseg_hex:	7 (2.97 % Utilization)
+
+--------------------------------------------------------------------
+########   Utilization report for  cell:   sevenseg_hex_0   ########
+Instance path:   simpleprocessor_top.sevenseg_hex_0                 
+====================================================================
+
+COMBINATIONAL LOGIC
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+LUTS     7                  9.59 %               
+=================================================
+Total COMBINATIONAL LOGIC in the block simpleprocessor_top.sevenseg_hex_0:	7 (2.97 % Utilization)
+
+
+##### END OF AREA REPORT #####]
+

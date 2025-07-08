@@ -1,0 +1,8 @@
+@W: BN132 :"c:\users\cturj\desktop\thor cpu\reg_file.v":21:2:21:7|Removing sequential instance cpu_inst.u_rf.rf_1[7:0] because it is equivalent to instance cpu_inst.u_rf.rf[7:0]. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: FA239 :"c:\users\cturj\desktop\thor cpu\sevenseg_hex.v":7:4:7:7|ROM u_hi.seg_n_1[6:0] (in view: work.simpleprocessor_top(verilog)) mapped in logic. To map to a technology ROM, apply attribute syn_romstyle on this instance.
+@W: FA239 :"c:\users\cturj\desktop\thor cpu\sevenseg_hex.v":7:4:7:7|ROM u_lo.seg_n_1[6:0] (in view: work.simpleprocessor_top(verilog)) mapped in logic. To map to a technology ROM, apply attribute syn_romstyle on this instance.
+@W: FA239 :"c:\users\cturj\desktop\thor cpu\sevenseg_hex.v":7:4:7:7|ROM u_hi.seg_n_1[6:0] (in view: work.simpleprocessor_top(verilog)) mapped in logic. To map to a technology ROM, apply attribute syn_romstyle on this instance.
+@W: FA239 :"c:\users\cturj\desktop\thor cpu\sevenseg_hex.v":7:4:7:7|ROM u_lo.seg_n_1[6:0] (in view: work.simpleprocessor_top(verilog)) mapped in logic. To map to a technology ROM, apply attribute syn_romstyle on this instance.
+@W: FX1039 :"c:\users\cturj\desktop\thor cpu\debounceswitch.v":13:0:13:5|User-specified initial value defined for instance ds_reset.r_Count[17:0] is being ignored. 
+@W: FX1039 :"c:\users\cturj\desktop\thor cpu\debounceswitch.v":13:0:13:5|User-specified initial value defined for instance ds_reset.r_State is being ignored. 
+@W: BN132 :"c:\users\cturj\desktop\thor cpu\debounceswitch.v":13:0:13:5|Removing sequential instance ds_reset.o_Switch because it is equivalent to instance ds_reset.r_State. To keep the instance, apply constraint syn_preserve=1 on the instance.

@@ -1,0 +1,2 @@
+@E: CG906 :"C:\Users\Cturj\Desktop\thor cpu\top.v":78:26:78:34|Reference to unknown variable seg_loq_n.
+
