@@ -4,6 +4,7 @@
 **Author:** Christian Turjuman  
 
 [Demo&nbsp;Video](https://youtu.be/xghnF1um8oY?si=XUX2Hru_jjpQjxhC)
+
  
 
 **In our Digital Systems lab we built a basic single-cycle CPU, however because the entire datapath had to settle within one clock edge the instruction throughput was very limited.**
@@ -26,3 +27,5 @@ The FPGA used is the LATTICE iCE40HX1K VQ100, on the GoBoard from nandland.com
 The constraint files are taken from nandland.com for the synthesis and P&R of the board:
 "Go_Board_Clock_Constraint.sdc" 
 "Go_Board_Constraints.pcf"`
+
+![Schematic](GateLevelDesign.png)
